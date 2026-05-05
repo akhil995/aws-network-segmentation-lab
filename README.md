@@ -98,7 +98,7 @@ Outbound:
 ---
 
 ## 📷 Screenshots
-attached in the prepository
+attached in the repository
 
 ---
 
